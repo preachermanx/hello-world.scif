@@ -6,8 +6,8 @@ and Singularity.
 
 [![https://img.shields.io/badge/hosted-singularity--hub-%23e32929.svg](https://img.shields.io/badge/hosted-singularity--hub-%23e32929.svg)](https://singularity-hub.org/collections/458)
 
-Read more about the [specification here](https://www.github.com/sci-f/sci-f.github.io/spec)
-Read more about the [definition file](https://www.github.com/sci-f/sci-f.github.io/specification#recipe)
+Read more about the [specification here](https://sci-f.github.io/spec)
+Read more about the [definition file](https://sci-f.github.io/specification#recipe)
 
 ## Overview
 The definition file [hello-world.scif](hello-world.scif) in this repository is the 
